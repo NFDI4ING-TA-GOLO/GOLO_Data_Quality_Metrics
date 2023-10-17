@@ -14,6 +14,11 @@ Therefore, it is better to compare complete data series and decide individually 
 Tools and Libraries
 ********************
 
+Install **pandas**
+:: 
+  pip install pandas
+
+
 Python
 =========
 

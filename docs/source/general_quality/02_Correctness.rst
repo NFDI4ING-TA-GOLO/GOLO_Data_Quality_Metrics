@@ -24,6 +24,11 @@ Python
 
 Python provides several methods to easily identifying outliers and statistical anomalies.
 
+Install **pandas** via command:
+:: 
+  pip install pandas
+
+
 Find outliers in a given dataframe 
 ----------------------------------
 

@@ -28,6 +28,13 @@ Tools and Libraries
 
 Python
 =========
+
+Install **pandas** and **numpy** via command:
+:: 
+  pip install pandas
+
+  pip install numpy
+
 Standard deviation is absolute measure of dispersion.
 
 .. note::

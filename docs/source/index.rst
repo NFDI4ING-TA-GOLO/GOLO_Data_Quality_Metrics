@@ -4,8 +4,8 @@ Data Quality Metrics
 Data Quality Metrics
 
 .. note::
-    
-   This project is under active development. Last updated 2023-10-13
+
+   This project is under active development. Last updated 2023-08-14
 
 .. note::
 
@@ -15,8 +15,7 @@ Data Quality Metrics
     The authors; Hauke Dierend and Hendrik Görner would like to thank the Federal Government and the Heads of Government of the Länder, as well as the Joint Science Conference (GWK),
     for their funding and support within the framework of the NFDI4Ing consortium. Funded by the German Research Foundation (DFG) - project number 442146713.
 
-   
-   
+
 In the future:
 
 1. Dataset quality metrics
@@ -24,6 +23,12 @@ In the future:
 2. Model quality metrics
 
 3. FAIR quality metrics
+
+If you would like to make a scientific contribution to this site, feel free to clone the repository and create your own branch with a metric that is relevant to you.
+
+Or send an e-mail with suggestions, wishes and feedback to
+
+hendrik.goerner@tu-dresden.de
 
 :ref:`General quality metrics`
 ***************************
@@ -45,13 +50,13 @@ In the future:
     general_quality/07_Relevance 
     general_quality/08_Uniformity 
     general_quality/09_Reliability 
-    general_quality/10_Comprehensibility 
+
      
     
 
     
 
-Image quality metrics
+:ref:`Image quality metrics`
 ***************************
 
   
@@ -73,7 +78,7 @@ Image quality metrics
     image_quality/PIQE
     
 
-Time series
+`Time series`
 ******************
 
 .. toctree::
@@ -83,7 +88,7 @@ Time series
 
     
     
-Pointcloud
+`Pointcloud`
 ***************************
 
 .. toctree::

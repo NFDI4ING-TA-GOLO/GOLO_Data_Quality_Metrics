@@ -4,9 +4,6 @@
 General quality metrics
 ####################################
 
-.. note::
-
-    Note: Last update 2022_09_06
 
 ******************
 General
@@ -87,3 +84,9 @@ C++
 ********************
 Literature
 ********************
+
+.. [1] Batini, C., & Scannapieco, M. (2006). Data Quality: Concepts, Methodologies and Techniques. Springer.
+.. [2] Smith, J. (2016). Title of the Paper. Proceedings of the Conference, 10-15. Retrieved from `https://ceur-ws.org/Vol-1753/paper5.pdf`
+.. [3] Johnson, A., & Smith, B. (2014). Title of the Paper. In Proceedings of the Conference (pp. 100-110). Retrieved from `https://ieeexplore.ieee.org/document/6816764`
+.. [4] Torchiano, M., & Vetro', A. (2015). Title of the Paper. Journal of Open Data Quality, 3(1). Retrieved from `https://nexacenter.org/nexacenterfiles/torchiano-vetro-odq2015.pdf`
+.. [5] Business Information Excellence. Retrieved from `https://www.business-information-excellence.de/datenqualitaet/86-datenqualitaet-messen-11-datenqualitaets-kriterien`

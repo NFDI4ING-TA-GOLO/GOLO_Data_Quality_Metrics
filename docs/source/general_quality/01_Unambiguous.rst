@@ -19,6 +19,10 @@ Python
 In Python’s Pandas library, Dataframe class provides a member function to find duplicate rows based on all columns or some specific columns.
 It returns a Boolean Series with True value for each duplicated row.
 
+Install **pandas** via command:
+:: 
+  pip install pandas
+
 Find ambiguous entries
 ----------------------
 

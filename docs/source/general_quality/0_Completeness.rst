@@ -19,6 +19,15 @@ Python
 In order to measure the completeness of a data set, it makes most sense to identify data gaps and, if necessary, to quantify them.
 In the following, a simple example and functions will show how data gaps can be identified.
 
+Install **pandas** and **numpy** via command:
+:: 
+  pip install pandas
+
+  pip install numpy
+
+
+.. literalinclude:: examples/completeness/completeness_dataframe.py
+
 Identifying missing data
 -----------------------
 

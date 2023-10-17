@@ -8,11 +8,6 @@ Description
 
 The data sets must be consistent in their terminology and structure with the ideas of the departments.
 
-The accuracy of data means the extent to which it reflects the real world and whether this can be substantiated with a source. 
-Furthermore, data accuracy ensures that real people can work with the data.
-Data accuracy is particularly important in highly regulated industries such as healthcare or finance.
-
-
 ********************
 Tools and Libraries
 ********************

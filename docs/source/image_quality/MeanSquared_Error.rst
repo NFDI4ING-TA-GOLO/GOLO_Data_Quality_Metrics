@@ -134,6 +134,6 @@ OpenCV contains a class for calculating the MSE. A detailed description can be f
 ********************
 Literature
 ********************
-https://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/VELDHUIZEN/node18.html 
+.. [1] Veldhuisen, G. (n.d.). Retrieved from `https://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/VELDHUIZEN/node18.html`
 
-https://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/VELDHUIZEN/node18.html
+

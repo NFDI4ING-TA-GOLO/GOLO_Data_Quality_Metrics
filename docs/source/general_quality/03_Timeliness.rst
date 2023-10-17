@@ -38,6 +38,13 @@ To be able to check the actuality better, data from the file should be compared 
 
 To check the metadata we need to import the packages os (Operationsystem) and time.
 
+Install **os** and **time** via command:
+:: 
+  pip install os
+
+  pip install time
+
+
 .. literalinclude:: examples/timeliness/func1.py
 
 A better way to measure the timeliness of data is to look at parts of the dataset and compare real-time data. 
