@@ -3,11 +3,8 @@ Data Quality Metrics
 
 Data Quality Metrics
 
-.. note::
 
    This project is under active development. Last updated 2023-10-13
-
-.. note::
 
     Die Autoren; Hauke Dierend und Hendrik Görner möchten sich bei Bund, Ländern und bei der Gemeinsamen Wissenschaftskonferenz (GWK) 
     für die Förderung und Unterstützung im Rahmen des Konsortiums NFDI4Ing bedanken. Gefördert durch die Deutsche Forschungsgemeinschaft (DFG) - Projektnummer 442146713.
