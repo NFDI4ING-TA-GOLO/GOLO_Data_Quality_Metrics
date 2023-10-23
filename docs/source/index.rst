@@ -5,7 +5,7 @@ Data Quality Metrics
 
 .. note::
 
-   This project is under active development. Last updated 2023-08-14
+   This project is under active development. Last updated 2023-10-32
 
 .. note::
 
@@ -28,7 +28,7 @@ If you would like to make a scientific contribution to this site, feel free to c
 
 Or send an e-mail with suggestions, wishes and feedback to
 
-hendrik.goerner@tu-dresden.de
+hendrik.goerner@tu-dresden.de 
 
 :ref:`General quality metrics`
 ***************************
