@@ -4,6 +4,6 @@
 FAIR Guiding Principles
 ####################################
 
-.. include:: Findable.rst
+.. include:: 01_Findable.rst
 
-.. include:: Accesable.rst
+.. include:: 02_Accesable.rst

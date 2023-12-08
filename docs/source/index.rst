@@ -37,7 +37,7 @@ hendrik.goerner@tu-dresden.de
     :caption: FAIR quality metrics
     :hidden:
 
-    FAIR/FAIR
+    FAIR/0_FAIR
 
 
 :ref:`General quality metrics`
