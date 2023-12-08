@@ -4,4 +4,4 @@
 FAIR Guiding Principles
 ####################################
 
-.. include:: FAIR/Findable.rst
+.. include:: Findable.rst
