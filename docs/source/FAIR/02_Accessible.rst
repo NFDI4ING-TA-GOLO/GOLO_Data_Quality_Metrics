@@ -1,5 +1,5 @@
 ********************
-Accessibill
+Accessible
 ********************
 
 definition
@@ -7,7 +7,7 @@ definition
 A1. Common protocol
 =========
 
-(meta)data are retrievable by their identifier using a standardized communications protocol
+(Meta)data are retrievable by their identifier using a standardized communications protocol
 
 The data or metadata can be accessed or retrieved based on a specific identifier assigned to them.
 Each piece of data or metadata has a unique identifier that allows for precise retrieval.
@@ -19,13 +19,13 @@ Standardization ensures consistency and interoperability, allowing different sys
 A1.1. open, free, universal
 --------------------
 
-the protocol is open, free, and universally implementable
+The protocol is open, free, and universally implementable
 
 This means, protocol is one that is transparent, cost-free, and accessible
 to a wide range of users, fostering widespread adoption
 and collaboration in the implementation of the communication standards it defines.
 
-A1.2. authentication and authorization
+A1.2. Authentication and authorization
 --------------------
 
 the protocol allows for an authentication and authorization procedure, where necessary

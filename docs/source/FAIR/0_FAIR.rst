@@ -19,7 +19,7 @@ scholarly digital research objects. Transparency, reproducibility, and reusabili
 
 .. include:: 01_Findable.rst
 
-.. include:: 02_Accessable.rst
+.. include:: 02_Accessible.rst
 
 .. include:: 03_Interoperable.rst
 
