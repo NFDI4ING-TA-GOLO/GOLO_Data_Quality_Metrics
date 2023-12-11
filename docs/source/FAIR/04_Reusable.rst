@@ -40,3 +40,8 @@ R1.3. Standards
 --------------------
 
 (Meta)data meet domain-relevant community standards
+
+metadata associated with the dataset follows the conventions and expectations of a particular community
+or field, ensuring that the information is structured and described in a way that is consistent with
+the established norms of that specific domain. Adhering to these community standards facilitates interoperability,
+collaboration, and effective communication within a particular scientific or research community.

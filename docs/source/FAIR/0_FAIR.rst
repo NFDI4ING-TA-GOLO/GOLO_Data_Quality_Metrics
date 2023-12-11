@@ -5,7 +5,7 @@ FAIR Guiding Principles
 ####################################
 
 The definitions and descriptions of the fair principles and guidelines are presented in detail by Mark Wilkinson et al. in the journal "Nature" 
-and be found online: `Nature`_ 
+and can be found online: `Nature`_ 
 
 .. _Nature: https://www.nature.com/articles/sdata201618
 
