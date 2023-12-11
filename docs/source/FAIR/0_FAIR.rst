@@ -24,3 +24,8 @@ scholarly digital research objects. Transparency, reproducibility, and reusabili
 .. include:: 03_Interoperable.rst
 
 .. include:: 04_Reusable.rst
+
+
+####################################
+FAIR Metric
+####################################
