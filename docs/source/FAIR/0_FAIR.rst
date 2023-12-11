@@ -30,5 +30,5 @@ scholarly digital research objects. Transparency, reproducibility, and reusabili
 FAIR Metric
 ####################################
 
-.. include:: FAIR_Metrics.rst
+.. include:: FAIR_metrics/FAIR_Metrics.rst
 
