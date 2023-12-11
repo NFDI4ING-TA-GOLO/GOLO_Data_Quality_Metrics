@@ -17,15 +17,18 @@ optimizing the added value derived from contemporary scholarly digital publishin
 algorithms, tools, and workflows that contribute to the generation of data. Whether it's data or analytical pipelines, the application of these principles is essential for all
 scholarly digital research objects. Transparency, reproducibility, and reusability are ensured when every component of the research process is made available.
 
-.. include:: 01_Findable.rst
+.. include:: FAIR_principles/01_Findable.rst
 
-.. include:: 02_Accessible.rst
+.. include:: FAIR_principles/02_Accessible.rst
 
-.. include:: 03_Interoperable.rst
+.. include:: FAIR_principles/03_Interoperable.rst
 
-.. include:: 04_Reusable.rst
+.. include:: FAIR_principles/04_Reusable.rst
 
 
 ####################################
 FAIR Metric
 ####################################
+
+.. include:: FAIR_Metrics.rst
+
