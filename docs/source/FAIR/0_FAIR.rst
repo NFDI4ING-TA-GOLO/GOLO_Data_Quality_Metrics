@@ -5,7 +5,9 @@ FAIR Guiding Principles
 ####################################
 
 The definitions and descriptions of the fair principles and guidelines are presented in detail by Mark Wilkinson et al. in the journal "Nature" 
-and be found online: .. _nature https://www.nature.com/articles/sdata201618
+and be found online: `Nature`_ 
+
+.. _Nature: https://www.nature.com/articles/sdata201618
 
 The FAIR principles are based on the urgent need to improve the infrastructure for scientific data. These principles are an attempt to make data automatically discoverable 
 by machines and thus increase its usability by individuals.
