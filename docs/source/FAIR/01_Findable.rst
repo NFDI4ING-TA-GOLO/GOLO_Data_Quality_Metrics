@@ -42,3 +42,6 @@ F4. Searchable Results
 =========
 
 (meta)data are registered or indexed in a searchable resource
+
+Data or metadata (information describing the data) is officially recorded or listed in a system or database that allows 
+for easy retrieval through searching. 
