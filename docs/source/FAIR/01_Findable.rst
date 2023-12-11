@@ -7,7 +7,7 @@ Defintion
 F1. Identifier
 =========
 
-(meta)data are assigned a globally unique and persistent identifier 
+(Meta)data are assigned a globally unique and persistent identifier 
 
 Both data and metadata (information describing the data) are given an identification code that is globally unique
 and remains constant over time. This identifier is unique on a global scale, ensuring that no other data or metadata
@@ -21,7 +21,7 @@ Example: Digital Object Identifier (DOI)
 F2. Rich Metadata
 =========
 
-data are described with rich metadata (defined by R1 below)
+Data are described with rich metadata (defined by R1 below)
 
 Metadata provides extensive information about the data, going beyond basic or minimal descriptors.
 Rich metadata typically includes details such as the origin
@@ -31,7 +31,8 @@ information that enhances understanding and usability.
 F3. Reference to identifier
 =========
 
-metadata clearly and explicitly include the identifier of the data it describes.
+Metadata clearly and explicitly include the identifier of the data it describes.
+
 In other words, within the metadata, there is a direct and unmistakable 
 indication of the identifier associated with the corresponding dataset.Having the identifier explicitly
 mentioned in the metadata helps establish a direct connection between the descriptive information (metadata) and the actual data it describes,
