@@ -91,13 +91,13 @@ Literature
 .. [4] Torchiano, M., & Vetro', A. (2015). Title of the Paper. Journal of Open Data Quality, 3(1). Retrieved from `https://nexacenter.org/nexacenterfiles/torchiano-vetro-odq2015.pdf`
 .. [5] Business Information Excellence. Retrieved from `https://www.business-information-excellence.de/datenqualitaet/86-datenqualitaet-messen-11-datenqualitaets-kriterien`
 
-.. include:: general_quality/0_Completeness 
-.. include:: general_quality/01_Unambiguous
-.. include:: general_quality/02_Correctness 
-.. include:: general_quality/03_Timeliness 
-.. include:: general_quality/04_Accuracy 
-.. include:: general_quality/05_Consistency 
-.. include:: general_quality/06_freedom_from_redundancy
-.. include:: general_quality/07_Relevance 
-.. include:: general_quality/08_Uniformity 
-.. include:: general_quality/09_Reliability 
+.. include:: general_quality/0_Completeness.rst
+.. include:: general_quality/01_Unambiguous.rst
+.. include:: general_quality/02_Correctness.rst
+.. include:: general_quality/03_Timeliness.rst 
+.. include:: general_quality/04_Accuracy.rst 
+.. include:: general_quality/05_Consistency.rst 
+.. include:: general_quality/06_freedom_from_redundancy.rst
+.. include:: general_quality/07_Relevance.rst 
+.. include:: general_quality/08_Uniformity.rst 
+.. include:: general_quality/09_Reliability.rst 
