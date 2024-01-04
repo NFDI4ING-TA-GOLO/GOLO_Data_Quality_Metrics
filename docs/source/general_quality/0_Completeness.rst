@@ -2,14 +2,14 @@
 Completeness
 ********************
 
-==================
+
 Description
 ==================
 
 Measured, stored or recorded data must have all necessary attributes. So-called NaN values result from faulty operations and reduce completeness.
 To improve this quality dimension, you can assess your data whether all your information is available or whether there are any missing elements.
 
-=====================
+
 Tools and Libraries
 =====================
 
@@ -162,6 +162,6 @@ MATLAB
 C++
 --------------
 
-=====================
+
 Literature
 =====================
