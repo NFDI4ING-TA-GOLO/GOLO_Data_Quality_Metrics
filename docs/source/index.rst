@@ -50,7 +50,7 @@ hendrik.goerner@tu-dresden.de
     :caption: General quality metrics
     :hidden:
 
-    general_quality/general_quality
+    general_quality/general_quality.rst
     
     
 
