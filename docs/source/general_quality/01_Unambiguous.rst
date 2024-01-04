@@ -1,20 +1,20 @@
-####################################
+********************
 Unambiguous
-####################################
+********************
 
-*********
+
 Description
-*********
+==================
 Each data record must be unambiguously interpretable.
 If entries differ only by one characteristic or only by the ID, a duplicate analysis
 is to be preferred because there is reasonable doubt that it is not the same entry.
 
-********************
+
 Tools and Libraries
-********************
+=====================
 
 Python
-=========
+--------------
 
 In Python’s Pandas library, Dataframe class provides a member function to find duplicate rows based on all columns or some specific columns.
 It returns a Boolean Series with True value for each duplicated row.
@@ -24,7 +24,7 @@ Install **pandas** via command:
   pip install pandas
 
 Find ambiguous entries
-----------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 To check if rows occur multiple time you can use this code snippet which will check if an row is identical to a provious row.
 
@@ -43,7 +43,7 @@ you can subset the columns to find duplicated column values. The more values the
             197   326        1973  Graduation        Married  51148.0  ...             0         0             3         11         0
 
 Measure unambiguous
-----------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Since the pure number of duplicated columns has little significance, the following function can be used to determine the degree of uniqueness.
 Since only three entries are duplicated, the degree is almost one.
@@ -61,11 +61,11 @@ Since only three entries are duplicated, the degree is almost one.
 
 
 MATLAB
-=========
+--------------
 
 C++
-=========
+--------------
 
-********************
+
 Literature
-********************
+=====================
