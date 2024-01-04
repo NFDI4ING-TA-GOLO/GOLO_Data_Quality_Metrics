@@ -46,7 +46,7 @@ hendrik.goerner@tu-dresden.de
 
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 3
     :caption: General quality metrics
     :hidden:
 
