@@ -2,16 +2,16 @@
 Completeness
 ********************
 
-################
+==================
 Description
-################
+==================
 
 Measured, stored or recorded data must have all necessary attributes. So-called NaN values result from faulty operations and reduce completeness.
 To improve this quality dimension, you can assess your data whether all your information is available or whether there are any missing elements.
 
-########################
+=====================
 Tools and Libraries
-########################
+=====================
 
 Python
 --------------
@@ -29,7 +29,7 @@ Install **pandas** and **numpy** via command:
 .. literalinclude:: examples/completeness/completeness_dataframe.py
 
 Identifying missing data
-^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Simple dataframe with four columns where :literal:`None`- and :literal:`np.nan`-Values occur. 
 That values occur in the formats mentioned is not always the case. How to identify  and quantify completely empty cells can be read here <link>.
@@ -109,7 +109,7 @@ In this example the output when counted nan-values for the first seven columns w
             Teenhome           0
 
 Removing missing data
-^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Missing data can be problematic for machine-learning algorithms, for example, because many models cannot handle missing values.
 For this situation, it makes sense to remove rows with missing data.
@@ -141,7 +141,7 @@ Rows with :literal:`None` and :literal:`0` will be dropped. A clean dataframe is
      1      90.0        45      40.0      12.0
 
 Measure completeness
-^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 There are several ways to determine the completeness of a data set. The completeness can refer to individual entries, columns or rows.
 Some trivial functions are now provided for the respective situations.
@@ -162,6 +162,6 @@ MATLAB
 C++
 --------------
 
-########################
+=====================
 Literature
-########################
+=====================
