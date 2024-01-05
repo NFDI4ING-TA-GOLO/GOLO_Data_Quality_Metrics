@@ -8,24 +8,26 @@ FAIR Metrics or Indicators
 
    * - FIELD, 
      - DESCRIPTION
+   * - Metric Identifier
+     - FAIR Metrics should, themselves, be FAIR objects, and thus should have globally unique identifiers.   
    * - Metric Name
-     - Row 1, column 2
+     - A human-readable name for the metric
    * - To which principle does it apply? 
-     - Row 2, column 2
+     - Metrics should address only one subprinciple, since each FAIR principle is particular to one feature of a digital resource; metrics that address multiple principles are likely to be measuring multiple features, and those should be separated whenever possible.
    * - What is being measured? 
-     - Row 2, column 2
+     - A precise description of the aspect of that digital resource that is going to be evaluated
    * - Why should we measure it?
-     - Row 2, column 2
+     - Describe why it is relevant to measure this aspect
    * - What must be provided?
-     - Row 2, column 2
+     - What information is required to make this measurement?
    * - How do we measure it?
-     - Row 2, column 2
+     - In what way will that information be evaluated?
    * - What is a valid result?
-     - Row 2, column 2
+     - What outcome represents "success" versus "failure"
    * - For which digital resource(s) isthis relevant?
-     - Row 2, column 2
+     - If possible, a metric should apply to all digital resources; however, some metrics may be applicable only to a subset. In this case, it is necessary to specify the range of resources to which the metric is reasonably applicable.
    * - Examples of their application across types of digital resource
-     - Row 2, column 2
+     - Whenever possible, provide an existing example of success, and an example of failure.
 
 
 Literature
