@@ -3,7 +3,7 @@ FAIR Metrics or Indicators
 ********************
 
 .. list-table:: The template for creating FAIR Metrics [2]
-   :widths:  50 50
+   :widths:  50 100
    :header-rows: 1
 
    * - FIELD, 
