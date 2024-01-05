@@ -2,6 +2,8 @@
 FAIR Metrics or Indicators
 ********************
 
+TEST
+
 .. list-table:: The template for creating FAIR Metrics [2]
    :widths:  50 100
    :header-rows: 1
