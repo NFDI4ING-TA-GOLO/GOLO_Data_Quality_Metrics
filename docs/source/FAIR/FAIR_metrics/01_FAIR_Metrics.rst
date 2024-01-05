@@ -2,8 +2,8 @@
 FAIR Metrics or Indicators
 ********************
 
-+--------------+-----------------+
-| FIELD		| DESCRIPTION
++-------------------+-----------------+
+| FIELD		        | DESCRIPTION
 +===================+============+
 | Metric Identifier | FAIR Metrics should, themselves, be
 |                   |FAIR objects, and thus should have
