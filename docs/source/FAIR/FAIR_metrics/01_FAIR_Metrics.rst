@@ -34,9 +34,9 @@ The description of the indicators can be found in the following table
      - What outcome represents "success" versus "failure"
    * - For which digital resource(s) isthis relevant?
      - | If possible, a metric should apply to all digital resources;
-       however, some metrics may be applicable only to a subset. 
-       In this case, it is necessary to specify the range of resources
-       to which the metric is reasonably applicable.
+       | however, some metrics may be applicable only to a subset. 
+       | In this case, it is necessary to specify the range of resources
+       | to which the metric is reasonably applicable.
    * - Examples of their application across types of digital resource
      - Whenever possible, provide an existing example of success, and an example of failure.
 
