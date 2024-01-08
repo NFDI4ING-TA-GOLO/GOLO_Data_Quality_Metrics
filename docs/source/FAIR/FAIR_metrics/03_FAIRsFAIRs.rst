@@ -15,7 +15,7 @@ to support various FAIR assessment scenarios throughout the research data lifecy
 
 The metrics adhere to the format outlined in the template (Table 2), which has been adjusted from Wilkinson et al. [1].
 In each metric table, we furnish descriptions and assessment particulars,
-along with the metric's correlation to the pertinent FAIR principle(s) and CoreTrustSeal requirement(s).
+along with the metric's correlation to the pertinent FAIR principle(s) and CoreTrustSeal requirement(s). Currently there are 17 items.
 
 .. list-table:: Modified Metric Template [4]
    :widths:  10 20
