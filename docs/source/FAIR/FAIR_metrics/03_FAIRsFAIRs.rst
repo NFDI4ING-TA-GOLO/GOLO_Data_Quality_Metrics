@@ -38,8 +38,4 @@ along with the metric's correlation to the pertinent FAIR principle(s) and CoreT
 
 
 
-Literature
-=====================
 
-
-.. [4] A. Devaraju, R. Huber, M. Mokrane, et al., “FAIRsFAIR Data Object Assessment Metrics (0.5),” Zenodo, Apr. 2022. DOI:10.5281/zenodo.6461229.

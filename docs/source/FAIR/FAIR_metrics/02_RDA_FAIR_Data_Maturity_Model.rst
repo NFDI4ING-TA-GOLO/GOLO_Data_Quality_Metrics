@@ -16,8 +16,4 @@ RDA ranks priority for each item (“● useful / ●● important / ●●● e
 Currently there are 41 indicators.
 
 
-Literature
-=====================
 
-
-.. [3] RDA FAIR Data Maturity Model Working Group, “FAIR Data Maturity Model: specification and guidelines,” 2020. DOI:10.15497/rda00050.

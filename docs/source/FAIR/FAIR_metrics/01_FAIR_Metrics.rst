@@ -43,9 +43,3 @@ The description of the indicators can be found in the following table
      - Whenever possible, provide an existing example of success, and an example of failure.
 
 
-Literature
-=====================
-
-
-.. [1] Wilkinson, M. D. et al. A design framework and exemplar metrics for FAIRness. Sci. Data 5:180118 doi: 10.1038/sdata.2018.118 (2018).
-.. [2] FAIR Metrics Group. “GitHub FAIRMetrics.” (2022), [Online]. Available: https://github.com/FAIRMetrics/Metrics
