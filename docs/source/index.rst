@@ -84,7 +84,7 @@ hendrik.goerner@tu-dresden.de
 
 .. toctree::
     :maxdepth: 2
-    :caption: Machine Learning: Classfication metrics
+    :caption: ML: Classfication metrics
     :hidden:
 
     classification_quality/0_CLASS_ACC
@@ -101,7 +101,7 @@ hendrik.goerner@tu-dresden.de
 
 .. toctree::
     :maxdepth: 2
-    :caption: Machine Learning: Regression metrics
+    :caption: ML: Regression metrics
     :hidden:
 
     regression_quality/0_REG_MSE
