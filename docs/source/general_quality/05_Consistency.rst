@@ -1,10 +1,10 @@
-####################################
+********************
 Consistency
-####################################
+********************
 
-*********
+
 Description
-*********
+==================
 A data set must not have any contradictions within itself or with other data sets.
 Data are inconsistent if different valid states are not compatible with each other.
 
@@ -22,12 +22,12 @@ Inconsistencies in data can be due to changes over time and/or across variables 
    * Levels of completeness
    * Types of inclusion or exclusions.
 
-********************
+
 Tools and Libraries
-********************
+=====================
 
 Python
-=========
+--------------
 
 Install **pandas** and **numpy** via command:
 :: 
@@ -52,7 +52,7 @@ The data having lower coefficient of Variation is more consistent and vice - ver
 
 
 Checking for inconsistent datatypes
------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 For the processing and use of data such as time series or numerical values, it is indispensable that data types must not differ. 
 To check a data set for inconsistency, the following function can be used. It provides information about which columns are inconsistent.
@@ -68,11 +68,11 @@ To check a data set for inconsistency, the following function can be used. It pr
            
 
 MATLAB
-=========
+--------------
 
 C++
-=========
+--------------
 
-********************
+
 Literature
-********************
+=====================

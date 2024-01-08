@@ -1,10 +1,10 @@
-####################################
+********************
 Correctness
-####################################
+********************
 
-*********
+
 Description
-*********
+==================
 
 The data should match the conditions in reality as closely as possible. Measurement data should have as low an error value as possible. 
 
@@ -15,12 +15,12 @@ The danger of outliers is that they influence average values and the standard de
 Outliers can be values of just one variable or combination of at least two variables that can be considered as outliers.
 
 
-********************
+
 Tools and Libraries
-********************
+=====================
 
 Python
-=========
+--------------
 
 Python provides several methods to easily identifying outliers and statistical anomalies.
 
@@ -30,7 +30,7 @@ Install **pandas** via command:
 
 
 Find outliers in a given dataframe 
-----------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The following data set contains sensor data from measuring stations at various beaches. 
 For example, water temperature, wave size and wave period were recorded. To load dataset and plot the distribution of the water temperature use the following snippet.
@@ -63,11 +63,11 @@ Using the limitation created using mean and a multiplication of the standard dev
    :width: 800
 
 MATLAB
-=========
+--------------
 
 C++
-=========
+--------------
 
-********************
+
 Literature
-********************
+=====================
