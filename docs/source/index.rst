@@ -78,7 +78,7 @@ hendrik.goerner@tu-dresden.de
     image_quality/PIQE
 
 
-:ref:`Machine Learning: Classfication metrics`
+:ref:`ML: Classfication metrics`
 ***************************
 
 
@@ -87,15 +87,15 @@ hendrik.goerner@tu-dresden.de
     :caption: Machine Learning: Classfication metrics
     :hidden:
 
-    classfication_quality/0_CLASS_ACC
-    classfication_quality/1_CLASS_CONF_MAT
-    classfication_quality/2_CLASS_PREC_REC
-    classfication_quality/3_CLASS_F1_SCORE
-    classfication_quality/4_CLASS_AU_ROC
+    classification_quality/0_CLASS_ACC
+    classification_quality/1_CLASS_CONF_MAT
+    classification_quality/2_CLASS_PREC_REC
+    classification_quality/3_CLASS_F1_SCORE
+    classification_quality/4_CLASS_AU_ROC
 
 
 
-:ref:`Machine Learning: Regression metrics`
+:ref:`ML: Regression metrics`
 ***************************
 
 
