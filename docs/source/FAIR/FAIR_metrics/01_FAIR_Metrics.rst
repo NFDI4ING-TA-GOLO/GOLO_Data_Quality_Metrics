@@ -22,8 +22,8 @@ The description of the indicators can be found in the following table
        | metrics that address multiple principles are likely to be measuring multiple features,
        and those should be separated whenever possible.
    * - What is being measured? 
-     - A precise description of the aspect of that digital
-       | resource that is going to be evaluated
+     - | A precise description of the aspect of that digital
+       resource that is going to be evaluated
    * - Why should we measure it?
      - Describe why it is relevant to measure this aspect
    * - What must be provided?
@@ -36,7 +36,7 @@ The description of the indicators can be found in the following table
      - | If possible, a metric should apply to all digital resources;
        | however, some metrics may be applicable only to a subset. 
        | In this case, it is necessary to specify the range of resources
-       | to which the metric is reasonably applicable.
+       to which the metric is reasonably applicable.
    * - Examples of their application across types of digital resource
      - Whenever possible, provide an existing example of success, and an example of failure.
 
