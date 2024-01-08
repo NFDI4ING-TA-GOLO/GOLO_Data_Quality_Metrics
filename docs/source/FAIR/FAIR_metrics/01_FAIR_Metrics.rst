@@ -6,7 +6,7 @@ Wilkonson et.al. have developed indicators that can be used by researchers to as
 The description of the indicators can be found in the following table
 
 .. list-table:: The template for creating FAIR Metrics [2]
-   :widths:  50 100
+   :widths:  10 20
    :header-rows: 1
 
    * - FIELD, 
