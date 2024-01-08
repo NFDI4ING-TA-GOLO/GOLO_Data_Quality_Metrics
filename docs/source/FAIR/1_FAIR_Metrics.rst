@@ -17,8 +17,9 @@ in the context of scientific research and data sharing.
 
 .. include:: FAIR_metrics/04_FAIR_Metric_for_EOSC.rst
 
+===========
 Literature
-=====================
+===========
 
 .. [1] Wilkinson, M. D. et al. A design framework and exemplar metrics for FAIRness. Sci. Data 5:180118 doi: 10.1038/sdata.2018.118 (2018).
 .. [2] FAIR Metrics Group. “GitHub FAIRMetrics.” (2022), [Online]. Available: https://github.com/FAIRMetrics/Metrics
