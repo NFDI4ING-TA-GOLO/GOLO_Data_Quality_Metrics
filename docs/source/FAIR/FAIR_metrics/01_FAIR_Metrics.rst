@@ -13,7 +13,7 @@ The description of the indicators can be found in the following table
      - DESCRIPTION
    * - Metric Identifier
      - | FAIR Metrics should, themselves, be FAIR objects, 
-       | and thus should have globally unique identifiers.
+       and thus should have globally unique identifiers.
    * - Metric Name
      - A human-readable name for the metric
    * - To which principle does it apply? 
