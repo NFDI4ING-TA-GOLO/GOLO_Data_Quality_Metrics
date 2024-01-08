@@ -4,10 +4,6 @@
 General quality metrics
 ####################################
 
-
-******************
-General
-******************
 Data, regardless of location of recording, temporal dimension, level of pre-processing or type of collection, are subject to certain quality metrics.
 These metrics are used to assess how useful or relevant large data sets or collected data are. 
 
@@ -90,3 +86,14 @@ Literature
 .. [3] Johnson, A., & Smith, B. (2014). Title of the Paper. In Proceedings of the Conference (pp. 100-110). Retrieved from `https://ieeexplore.ieee.org/document/6816764`
 .. [4] Torchiano, M., & Vetro', A. (2015). Title of the Paper. Journal of Open Data Quality, 3(1). Retrieved from `https://nexacenter.org/nexacenterfiles/torchiano-vetro-odq2015.pdf`
 .. [5] Business Information Excellence. Retrieved from `https://www.business-information-excellence.de/datenqualitaet/86-datenqualitaet-messen-11-datenqualitaets-kriterien`
+
+.. include:: 0_Completeness.rst
+.. include:: 01_Unambiguous.rst
+.. include:: 02_Correctness.rst
+.. include:: 03_Timeliness.rst 
+.. include:: 04_Accuracy.rst 
+.. include:: 05_Consistency.rst 
+.. include:: 06_freedom_from_redundancy.rst
+.. include:: 07_Relevance.rst 
+.. include:: 08_Uniformity.rst 
+.. include:: 09_Reliability.rst 

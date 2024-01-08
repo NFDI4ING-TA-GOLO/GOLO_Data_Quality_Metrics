@@ -1,8 +1,6 @@
 Data Quality Metrics
 ####################################
 
-Data Quality Metrics
-
 .. note::
 
    This project is under active development. Last updated 2023-11-06
@@ -30,28 +28,30 @@ Or send an e-mail with suggestions, wishes and feedback to
 
 hendrik.goerner@tu-dresden.de 
 
+:ref:`FAIR quality metrics`
+***************************
+
+
+.. toctree::
+    :maxdepth: 0
+    :caption: FAIR quality metrics
+    :hidden:
+
+    FAIR/0_FAIR_Principles.rst
+    FAIR/1_FAIR_Metrics.rst
+
+
 :ref:`General quality metrics`
 ***************************
 
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 3
     :caption: General quality metrics
     :hidden:
 
-    general_quality/general_quality
-    general_quality/0_Completeness 
-    general_quality/01_Unambiguous
-    general_quality/02_Correctness 
-    general_quality/03_Timeliness 
-    general_quality/04_Accuracy 
-    general_quality/05_Consistency 
-    general_quality/06_freedom_from_redundancy
-    general_quality/07_Relevance 
-    general_quality/08_Uniformity 
-    general_quality/09_Reliability 
-
-     
+    general_quality/general_quality.rst
+    
     
 
     
@@ -111,7 +111,7 @@ hendrik.goerner@tu-dresden.de
     regression_quality/4_REG_Example
     
 
-`Time series`
+:ref:`Time series`
 ******************
 
 .. toctree::
@@ -121,7 +121,7 @@ hendrik.goerner@tu-dresden.de
 
     
     
-`Pointcloud`
+:ref:`Pointcloud`
 ***************************
 
 .. toctree::

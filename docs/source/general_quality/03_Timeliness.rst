@@ -1,10 +1,10 @@
-####################################
+********************
 Timeliness and Punctuality
-####################################
+********************
 
-*********
+
 Description
-*********
+==================
 
 All data sets must correspond to the desired current state of the depicted reality.
 If, in order to answer the research question, data is needed that is current in time.
@@ -19,9 +19,8 @@ To measure timeliness, you may take a small sample of “golden records” for w
 
 
 
-********************
 Tools and Libraries
-********************
+=====================
 
 Unfortunately, there are no technical tools to determine whether a dataset is up-to-date or not.
 However, by declaring minimum and maximum times in which a dataset has been updated, a certain quality can be maintained.
@@ -30,7 +29,7 @@ The timeliness of data can be on different levels. The creation date of a file a
 This information can usually be obtained from the metadata.
 
 Python
-=========
+--------------
 
 Whether a file is up-to-date can be defined in several ways.
 On the one hand, the date of creation of the file can be a more or less good indicator. 
@@ -51,11 +50,11 @@ A better way to measure the timeliness of data is to look at parts of the datase
 
 
 MATLAB
-=========
+--------------
 
 C++
-=========
+--------------
 
-********************
+
 Literature
-********************
+=====================

@@ -1,10 +1,10 @@
-####################################
+********************
 Relevance
-####################################
+********************
 
-*********
+
 Description
-*********
+==================
 
 Relevance in data quality refers to the usefulness of collected data and whether this data is needed for further processing. 
 However, the concept of "relevance" can vary depending on the specific context and requirements of your task.
@@ -12,16 +12,16 @@ However, the concept of "relevance" can vary depending on the specific context a
 In the following example, a data set is examined for a criterion, i.e. a word or a numerical value.
 If the data set contains the criterion, it is classified as relevant.
 
-********************
+
 Tools and Libraries
-********************
+=====================
 
 Install **pandas**
 :: 
   pip install pandas
 
 Python
-=========
+--------------
 
 Load the needed dataset as showed in the following code snippet:
 
@@ -60,11 +60,11 @@ Relevance can be understood in many ways. Therefore, the previous example is onl
 
 
 MATLAB
-=========
+--------------
 
 C++
-=========
+--------------
 
-********************
+
 Literature
-********************
+=====================
