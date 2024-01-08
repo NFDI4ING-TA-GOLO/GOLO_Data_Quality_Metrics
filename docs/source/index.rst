@@ -33,7 +33,7 @@ hendrik.goerner@tu-dresden.de
 
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 0
     :caption: FAIR quality metrics
     :hidden:
 
