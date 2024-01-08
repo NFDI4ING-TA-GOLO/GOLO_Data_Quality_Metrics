@@ -2,7 +2,8 @@
 FAIR Metrics or Indicators
 ********************
 
-TEST
+Wilkonson et.al. have developed indicators that can be used by researchers to assess the FAIRness of resources such as datasets, code, workflows, and research objects. The initial survey-based FAIRness assessments utilized Gen1 and could only be assessed manually. Utilizing the survey results as a comprehensive overview of community FAIRness approaches, we subsequently developed Gen2 MIs, which are fully automated. The current iteration of the FAIR Evaluator employs Gen2 MIs.
+The description of the indicators can be found in the following table
 
 .. list-table:: The template for creating FAIR Metrics [2]
    :widths:  50 100
