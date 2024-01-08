@@ -9,7 +9,7 @@ the working group formulated a series of indicators and corresponding maturity l
 
 As a result of the work, a first set of guidelines and a checklist related to the implementation of the
 indicators were produced, with the objective to further align the guidelines for evaluating FAIRness
-with the needs of the community.
+with the needs of the community. [3]
 
 RDA ranks priority for each item (“● useful / ●● important / ●●● essential”) and provides suggestion for assessment (implementation).
 
