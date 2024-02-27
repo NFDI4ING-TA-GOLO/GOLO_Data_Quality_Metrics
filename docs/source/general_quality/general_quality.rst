@@ -9,18 +9,17 @@ These metrics are used to assess how useful or relevant large data sets or colle
 
 Data sets can be reliably described using the following metrics.
 
-   * `Completeness <https://data-quality-metrics--21.org.readthedocs.build/en/21/general_quality/0_Completeness.html>`_
-   * `Unambiguous <https://data-quality-metrics--21.org.readthedocs.build/en/21/general_quality/01_Unambiguous.html>`_
-   * `Correctness <https://data-quality-metrics--21.org.readthedocs.build/en/21/general_quality/02_Correctness.html>`_
-   * `Timeliness <https://data-quality-metrics--21.org.readthedocs.build/en/21/general_quality/03_Timeliness.html>`_
-   * `Accuracy <https://data-quality-metrics--21.org.readthedocs.build/en/21/general_quality/04_Accuracy.html>`_ 
-   * `Consistency <https://data-quality-metrics--21.org.readthedocs.build/en/21/general_quality/05_Consistency.html>`_
-   * `freedom_from_redundancy <https://data-quality-metrics--21.org.readthedocs.build/en/21/general_quality/06_freedom_from_redundancy.html>`_
-   * `Relevance <https://data-quality-metrics--21.org.readthedocs.build/en/21/general_quality/07_Relevance.html>`_ 
-   * `Uniformity <https://data-quality-metrics--21.org.readthedocs.build/en/21/general_quality/08_Uniformity.html>`_
-   * `Reliability <https://data-quality-metrics--21.org.readthedocs.build/en/21/general_quality/09_Reliability.html>`_ 
-   * `Comprehensibility <https://data-quality-metrics--21.org.readthedocs.build/en/21/general_quality/10_Comprehensibility.html>`_
-
+   * `Completeness <https://quality.nfdi4ing.de/en/latest/general_quality/general_quality.html#id7>`_
+   * `Unambiguous <https://quality.nfdi4ing.de/en/latest/general_quality/general_quality.html#id12>`_
+   * `Correctness <https://quality.nfdi4ing.de/en/latest/general_quality/general_quality.html#id19>`_
+   * `Timeliness <https://quality.nfdi4ing.de/en/latest/general_quality/general_quality.html#timeliness-and-punctuality>`_
+   * `Accuracy <https://quality.nfdi4ing.de/en/latest/general_quality/general_quality.html#id32>`_ 
+   * `Consistency <https://quality.nfdi4ing.de/en/latest/general_quality/general_quality.html#id39>`_
+   * `freedom_from_redundancy <https://quality.nfdi4ing.de/en/latest/general_quality/general_quality.html#id46>`_
+   * `Relevance <https://quality.nfdi4ing.de/en/latest/general_quality/general_quality.html#id53>`_ 
+   * `Uniformity <https://quality.nfdi4ing.de/en/latest/general_quality/general_quality.html#id60>`_
+   * `Reliability <https://quality.nfdi4ing.de/en/latest/general_quality/general_quality.html#id67>`_ 
+   
 Of these eleven criteria, all are used in the rarest cases. Which criteria 
 are used depends on the data set and the purpose of the data.
 Experience shows that the first six criteria are used for data analysis.
