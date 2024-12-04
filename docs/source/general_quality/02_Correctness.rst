@@ -61,13 +61,3 @@ Using the limitation created using mean and a multiplication of the standard dev
 
 .. image:: images/Figure_2.png
    :width: 800
-
-MATLAB
---------------
-
-C++
---------------
-
-
-Literature
-=====================

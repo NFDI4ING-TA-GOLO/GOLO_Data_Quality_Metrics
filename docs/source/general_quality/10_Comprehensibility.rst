@@ -24,14 +24,3 @@ How do you check data accuracy in Python?
 The mathematical formula for calculating the accuracy of a machine learning model is 1 – (Number of misclassified samples / Total number of samples).
 
 This example can also be applied to datasets.
-
-MATLAB
---------------
-
-C++
---------------
-
-
-Literature
-=====================
-

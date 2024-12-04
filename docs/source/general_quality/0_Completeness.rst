@@ -153,15 +153,3 @@ Calculation of complete dataseries:
 Proportion of missing data:
 
 .. literalinclude:: examples/completeness/completeness_func5.py
-
-
-
-MATLAB
---------------
-
-C++
---------------
-
-
-Literature
-=====================

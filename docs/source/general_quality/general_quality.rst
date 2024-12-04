@@ -70,12 +70,6 @@ built on top of the Python programming language.*
 
 *NumPy offers comprehensive mathematical functions, random number generators, linear algebra routines, Fourier transforms, and more.*
 
-MATLAB
-=========
-
-C++
-=========
-
 ********************
 Literature
 ********************

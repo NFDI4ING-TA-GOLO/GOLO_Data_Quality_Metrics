@@ -37,15 +37,3 @@ Using scipy.stats to calculate standard error
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. literalinclude:: examples/accuracy/accuracy_func2.py
-
-
-
-MATLAB
---------------
-
-C++
---------------
-
-
-Literature
-=====================
