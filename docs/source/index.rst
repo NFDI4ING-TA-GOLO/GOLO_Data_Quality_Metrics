@@ -24,12 +24,6 @@ Data Quality Metrics
 Explore detailed explanations, hands-on examples, and code snippets that will empower you to work effectively with these metrics.
 
 If you would like to make a scientific contribution to this site, feel free to clone the repository and create your own branch with a metric that is relevant to you.
-<<<<<<< HEAD
-
-
-:ref:`FAIR quality metrics`
-***************************
-
 
 .. toctree::
     :maxdepth: 0
@@ -40,9 +34,6 @@ If you would like to make a scientific contribution to this site, feel free to c
     FAIR/1_FAIR_Metrics.rst
 
 
-:ref:`General quality metrics`
-***************************
-
 
 .. toctree::
     :maxdepth: 3
@@ -52,11 +43,6 @@ If you would like to make a scientific contribution to this site, feel free to c
     general_quality/general_quality.rst
     
     
-   
-
-:ref:`Image quality metrics`
-***************************
-
   
 .. toctree::
     :maxdepth: 2
@@ -76,18 +62,12 @@ If you would like to make a scientific contribution to this site, feel free to c
     image_quality/PIQE
     
 
-:ref:`Time series`
-******************
-
 .. toctree::
     :maxdepth: 2
     :caption: Time series quality metrics
     :hidden:
 
     
-    
-:ref:`Pointcloud`
-***************************
 
 .. toctree::
     :maxdepth: 2
@@ -97,5 +77,3 @@ If you would like to make a scientific contribution to this site, feel free to c
     pointcloud/Point_To_Point_PCL
     pointcloud/Point_To_Plane_PCL
     pointcloud/Point_Cloud_Quality_Metric
-=======
->>>>>>> 0d51a30bb36152e59b578e6343bb55d76d61e594
