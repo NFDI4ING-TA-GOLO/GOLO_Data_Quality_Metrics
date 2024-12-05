@@ -25,10 +25,6 @@ hendrik.goerner@tu-dresden.de
     :caption: FAIR quality metrics
     :hidden:
 
-    FAIR/0_FAIR_Principles.rst
-    FAIR/1_FAIR_Metrics.rst
-
-
 :ref:`General quality metrics`
 ***************************
 
@@ -38,52 +34,3 @@ hendrik.goerner@tu-dresden.de
     :caption: General quality metrics
     :hidden:
 
-    general_quality/general_quality.rst
-    
-    
-
-    
-
-:ref:`Image quality metrics`
-***************************
-
-  
-.. toctree::
-    :maxdepth: 2
-    :caption: Image quality metrics
-    :hidden:
-
-    image_quality/MeanSquared_Error
-    image_quality/Root_Mean_Squared_Error
-    image_quality/Peak_SignalToNoiseRatio
-    image_quality/Block_Sensitive_Peak_Signal_to_Noise_Ratio
-    image_quality/Structural_Similarity
-    image_quality/MultiScale_Structural_Similarity
-    image_quality/Universal_Quality_Image_Index
-    image_quality/Spatial_Correlation_Coefficient
-    image_quality/BRISQUE
-    image_quality/NIQE
-    image_quality/PIQE
-    
-
-:ref:`Time series`
-******************
-
-.. toctree::
-    :maxdepth: 2
-    :caption: Time series quality metrics
-    :hidden:
-
-    
-    
-:ref:`Pointcloud`
-***************************
-
-.. toctree::
-    :maxdepth: 2
-    :caption: Pointcloud quality metrics
-    :hidden:
-
-    pointcloud/Point_To_Point_PCL
-    pointcloud/Point_To_Plane_PCL
-    pointcloud/Point_Cloud_Quality_Metric
