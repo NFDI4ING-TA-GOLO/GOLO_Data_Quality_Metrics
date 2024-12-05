@@ -3,10 +3,9 @@ Data Quality Metrics
 
 .. note::
 
-    Die Autoren; Hauke Dierend und Hendrik Görner möchten sich bei Bund, Ländern und bei der Gemeinsamen Wissenschaftskonferenz (GWK) 
     für die Förderung und Unterstützung im Rahmen des Konsortiums NFDI4Ing bedanken. Gefördert durch die Deutsche Forschungsgemeinschaft (DFG) - Projektnummer 442146713.
    
-    The authors; Hauke Dierend and Hendrik Görner would like to thank the Federal Government and the Heads of Government of the Länder, as well as the Joint Science Conference (GWK),
+    The authors; Hauke Dierend, Hendrik Görner and Rayen Hamlaoui would like to thank the Federal Government and the Heads of Government of the Länder, as well as the Joint Science Conference (GWK),
     for their funding and support within the framework of the NFDI4Ing consortium. Funded by the German Research Foundation (DFG) - project number 442146713.
 
 Welcome to our comprehensive resource hub dedicated to quality metrics in various domains. This wiki serves as a guide to understanding, evaluating, and applying metrics across diverse fields, including:
@@ -22,6 +21,3 @@ Welcome to our comprehensive resource hub dedicated to quality metrics in variou
 Explore detailed explanations, hands-on examples, and code snippets that will empower you to work effectively with these metrics.
 
 If you would like to make a scientific contribution to this site, feel free to clone the repository and create your own branch with a metric that is relevant to you.
-
-
-
