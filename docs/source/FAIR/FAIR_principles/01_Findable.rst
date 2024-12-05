@@ -2,8 +2,6 @@
 Findable
 ********************
 
-Defintion
-
 F1. Identifier
 =========
 

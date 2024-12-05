@@ -2,8 +2,6 @@
 Accessible
 ********************
 
-definition
-
 A1. Common protocol
 =========
 
