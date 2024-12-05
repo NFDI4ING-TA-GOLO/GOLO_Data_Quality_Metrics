@@ -3,24 +3,12 @@ Data Quality Metrics
 
 .. note::
 
-   This project is under active development. Last updated 2023-11-06
-
-.. note::
-
     Die Autoren; Hauke Dierend und Hendrik Görner möchten sich bei Bund, Ländern und bei der Gemeinsamen Wissenschaftskonferenz (GWK) 
     für die Förderung und Unterstützung im Rahmen des Konsortiums NFDI4Ing bedanken. Gefördert durch die Deutsche Forschungsgemeinschaft (DFG) - Projektnummer 442146713.
    
     The authors; Hauke Dierend and Hendrik Görner would like to thank the Federal Government and the Heads of Government of the Länder, as well as the Joint Science Conference (GWK),
     for their funding and support within the framework of the NFDI4Ing consortium. Funded by the German Research Foundation (DFG) - project number 442146713.
 
-
-In the future:
-
-1. Dataset quality metrics
-
-2. Model quality metrics
-
-3. FAIR quality metrics
 
 If you would like to make a scientific contribution to this site, feel free to clone the repository and create your own branch with a metric that is relevant to you.
 
