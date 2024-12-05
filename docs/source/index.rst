@@ -13,13 +13,13 @@ Data Quality Metrics
 Welcome to our comprehensive resource hub dedicated to quality metrics in various domains. This wiki serves as a guide to understanding, evaluating, and applying metrics across diverse fields, including:
 
 **FAIR Metrics**: Detailed insights into Findability, Accessibility, Interoperability, and Reusability principles.
-General Quality Metrics: Essential concepts like Completeness, Accuracy, Consistency, and Timeliness.
-Image Quality Metrics: Evaluation methods such as Mean Squared Error and Peak Signal-to-Noise Ratio.
-Pointcloud Quality Metrics: Standards and examples for assessing 3D data quality.
-Machine Learning Metrics:
+**General Quality Metrics**: Essential concepts like Completeness, Accuracy, Consistency, and Timeliness.
+**Image Quality Metrics**: Evaluation methods such as Mean Squared Error and Peak Signal-to-Noise Ratio.
+**Pointcloud Quality Metrics**: Standards and examples for assessing 3D data quality.
 
-    Classification Metrics: Metrics like Accuracy, F1-Score, and Confusion Matrix for evaluating model performance.
-    Regression Metrics: Techniques for assessing predictive models.
+**Machine Learning Metrics**:
+    **Classification Metrics**: Metrics like Accuracy, F1-Score, and Confusion Matrix for evaluating model performance.
+    **Regression Metrics**: Techniques for assessing predictive models.
 
 Explore detailed explanations, hands-on examples, and code snippets that will empower you to work effectively with these metrics.
 
