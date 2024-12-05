@@ -64,13 +64,3 @@ Now you can apply this function to the whole column and recalculate to meters
           8     Matt    5'5"      Right      165.10
 
 After applying the function, all body sizes were converted from imperial system to metric system.
-
-MATLAB
---------------
-
-C++ 
---------------
-
-
-Literature
-=====================
