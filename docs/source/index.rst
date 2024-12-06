@@ -17,8 +17,8 @@ Welcome to our comprehensive resource hub dedicated to quality metrics in variou
 
 | **Machine Learning Metrics**:
 
-|    **Classification Metrics**: Metrics like Accuracy, F1-Score, and Confusion Matrix for evaluating model performance.
-|    **Regression Metrics**: Techniques for assessing predictive models.
+| **Classification Metrics**: Metrics like Accuracy, F1-Score, and Confusion Matrix for evaluating model performance.
+| **Regression Metrics**: Techniques for assessing predictive models.
 
 Explore detailed explanations, hands-on examples, and code snippets that will empower you to work effectively with these metrics.
 
