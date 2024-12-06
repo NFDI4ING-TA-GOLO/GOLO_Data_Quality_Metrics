@@ -33,14 +33,3 @@ Install **scikit-learn** using this command:
    pip install -U scikit-learn
    
 .. literalinclude:: examples/CLASS_AU_ROC/CLASS_AU_ROC.py
-
-
-MATLAB
-=========
-
-C++
-=========
-
-********************
-Literature
-********************

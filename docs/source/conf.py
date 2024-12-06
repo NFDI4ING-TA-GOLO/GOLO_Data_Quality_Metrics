@@ -3,7 +3,7 @@
 # -- Project information
 
 project = "Data Quality Metrics"
-copyright = "2022, NFDI4Ing"
+copyright = "2024, NFDI4Ing"
 author = "TA Golo"
 
 release = "0.1"

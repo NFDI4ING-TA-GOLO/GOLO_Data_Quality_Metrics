@@ -56,15 +56,3 @@ In our case, we can find out if there is sensor data for Ohio Street Beach.
    Out[2]: The dataset is relevant. It contains the keyword 'Ohio Street Beach'.
 
 Relevance can be understood in many ways. Therefore, the previous example is only a small excerpt of what is possible.
-
-
-
-MATLAB
---------------
-
-C++
---------------
-
-
-Literature
-=====================

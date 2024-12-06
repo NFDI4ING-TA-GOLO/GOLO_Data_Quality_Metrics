@@ -2,7 +2,6 @@
 Point Cloud Quality Metric
 #################################################
 
-
 Full-Reference Metric
 
 *********
@@ -23,21 +22,9 @@ Limits
 
 The quality of the results depends on the matching algorithm between 2D image data and the point cloud data. Therefore the quality of the matching has to be evaluated, too.
 
-******************
-Example
-******************
-
-Will be added in the future.
-
 ********************
 Tools and Libraries
 ********************
-
-Python
-=========
-
-MATLAB
-=========
 
 C++
 =========
@@ -46,4 +33,4 @@ A C++ implementation by the authors can be found in https://github.com/MEPP-team
 ********************
 Literature
 ********************
-https://hal.archives-ouvertes.fr/hal-02529668v1
+A detailed description can be found at the https://hal.archives-ouvertes.fr/hal-02529668v1

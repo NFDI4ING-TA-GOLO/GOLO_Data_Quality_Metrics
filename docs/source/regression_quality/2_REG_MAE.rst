@@ -33,13 +33,3 @@ Install **scikit-learn** via this command:
    
 .. literalinclude:: examples/REG_MAE/REG_MAE.py
 
-
-MATLAB
-=========
-
-C++
-=========
-
-********************
-Literature
-********************

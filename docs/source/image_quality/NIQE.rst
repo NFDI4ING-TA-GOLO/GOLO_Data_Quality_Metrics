@@ -74,4 +74,4 @@ A detailed description can be found at the `Mathworks Website <https://de.mathwo
 Literature
 ********************
 
-http://live.ece.utexas.edu/publications/2012/Asilomar_MicheleSaad.pdf
+ .. [1] M. A. Saad and A. C. Bovik, "Blind quality assessment of videos using a model of natural scene statistics and motion coherency," 2012 Conference Record of the Forty Sixth Asilomar Conference on Signals, Systems and Computers (ASILOMAR), Pacific Grove, CA, USA, 2012, pp. 332-336, doi: 10.1109/ACSSC.2012.6489018, [Online]. Available: http://live.ece.utexas.edu/publications/2012/Asilomar_MicheleSaad.pdf

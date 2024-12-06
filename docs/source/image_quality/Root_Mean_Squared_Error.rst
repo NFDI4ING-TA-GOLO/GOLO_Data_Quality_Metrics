@@ -132,8 +132,3 @@ OpenCV doesn't contain a class for calculating the RMSE. But because it's the ro
     
     RMSE = sqrt(MSE.val[0]);
   }
-  
-********************
-Literature
-********************
-

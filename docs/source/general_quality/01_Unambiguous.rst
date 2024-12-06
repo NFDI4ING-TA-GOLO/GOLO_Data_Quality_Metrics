@@ -56,16 +56,3 @@ Since only three entries are duplicated, the degree is almost one.
    In [1]:  degree_of_unambiguous(df)
 
    Out[2]:  99.86625055728935
-
-
-
-
-MATLAB
---------------
-
-C++
---------------
-
-
-Literature
-=====================

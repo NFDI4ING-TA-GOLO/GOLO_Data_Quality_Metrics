@@ -25,21 +25,9 @@ The quality of the results depends on
 - the surface quality of the plane
 - knowledge about the position and orientation of the plane
 
-******************
-Example
-******************
-
-Will be added in the future.
-
 ********************
 Tools and Libraries
 ********************
-
-Python
-=========
-
-MATLAB
-=========
 
 C++
 =========
@@ -48,4 +36,4 @@ The Point Cloud Libray (PCL) provides a GitHub repository to find planes in a po
 ********************
 Literature
 ********************
-https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8296925
+A detailed description can be found at the https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8296925

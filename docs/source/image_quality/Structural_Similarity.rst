@@ -114,6 +114,3 @@ OpenCV contains a class for calculating the SSIM. A detailed description can be 
     SSIM = SSIM_ref.compute(img_dark);
   }
   
-********************
-Literature
-********************

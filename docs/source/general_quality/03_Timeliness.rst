@@ -47,14 +47,3 @@ Install **os** and **time** via command:
 .. literalinclude:: examples/timeliness/func1.py
 
 A better way to measure the timeliness of data is to look at parts of the dataset and compare real-time data. 
-
-
-MATLAB
---------------
-
-C++
---------------
-
-
-Literature
-=====================

@@ -32,13 +32,3 @@ Install **scikit-learn** via this command:
    
 .. literalinclude:: examples/REG_RMSE/REG_RMSE.py
 
-
-MATLAB
-=========
-
-C++
-=========
-
-********************
-Literature
-********************

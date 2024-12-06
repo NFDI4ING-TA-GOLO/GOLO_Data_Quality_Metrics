@@ -32,23 +32,14 @@ Will be added in the future.
 
 ********************
 Tools and Libraries
+
 ********************
 
 The implementation depends on the PCL format. Information to assign the points between the different point cloud are required, e. g. the channel and angle. 
 
 An example will be implemented in the future.
 
-Python
-=========
-
-MATLAB
-=========
-
-C++
-=========
-
-
 ********************
 Literature
 ********************
-https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8296925
+A detailed description can be found at the https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8296925

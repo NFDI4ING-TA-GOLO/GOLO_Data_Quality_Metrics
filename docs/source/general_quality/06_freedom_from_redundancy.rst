@@ -25,14 +25,3 @@ The pandas.DataFrame.duplicated() method is used to find duplicate rows in a Dat
 It returns a boolean series which identifies whether a row is duplicate or unique.
 
 .. literalinclude:: examples/ffr/ffr_func1.py
-
-
-MATLAB
---------------
-
-C++
---------------
-
-
-Literature
-=====================
