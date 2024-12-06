@@ -4,8 +4,7 @@
 General quality metrics
 ####################################
 
-Data, regardless of location of recording, temporal dimension, level of pre-processing or type of collection, are subject to certain quality metrics.
-These metrics are used to assess how useful or relevant large data sets or collected data are. 
+Data, regardless of location of recording, temporal dimension, level of pre-processing or type of collection, are subject to certain quality metrics. These metrics are used to assess how useful or relevant large data sets or collected data are. In the following sections, each metric will be described in detail. For each metric, examples will be provided to illustrate how it can be calculated and assessed in practice. These examples will include step-by-step explanations and, where applicable, code snippets to demonstrate the computational process.
 
 Data sets can be reliably described using the following metrics.
 

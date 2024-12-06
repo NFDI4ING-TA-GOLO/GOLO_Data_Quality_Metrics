@@ -1,8 +1,6 @@
 Data Quality Metrics
 ####################################
 
-
-
 .. note::
 
     für die Förderung und Unterstützung im Rahmen des Konsortiums NFDI4Ing bedanken. Gefördert durch die Deutsche Forschungsgemeinschaft (DFG) - Projektnummer 442146713.
@@ -17,9 +15,10 @@ Welcome to our comprehensive resource hub dedicated to quality metrics in variou
 **Image Quality Metrics**: Evaluation methods such as Mean Squared Error and Peak Signal-to-Noise Ratio.
 **Pointcloud Quality Metrics**: Standards and examples for assessing 3D data quality.
 
-**Machine Learning Metrics**:
-    **Classification Metrics**: Metrics like Accuracy, F1-Score, and Confusion Matrix for evaluating model performance.
-    **Regression Metrics**: Techniques for assessing predictive models.
+| **Machine Learning Metrics**:
+
+|    **Classification Metrics**: Metrics like Accuracy, F1-Score, and Confusion Matrix for evaluating model performance.
+|    **Regression Metrics**: Techniques for assessing predictive models.
 
 Explore detailed explanations, hands-on examples, and code snippets that will empower you to work effectively with these metrics.
 
