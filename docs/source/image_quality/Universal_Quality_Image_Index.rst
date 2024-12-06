@@ -76,4 +76,4 @@ Calculate UQI:
 ********************
 Literature
 ********************
-https://ieeexplore.ieee.org/document/995823
+A detailed description can be found at the https://ieeexplore.ieee.org/document/995823

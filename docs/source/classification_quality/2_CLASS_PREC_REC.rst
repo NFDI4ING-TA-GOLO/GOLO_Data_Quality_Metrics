@@ -33,15 +33,3 @@ Install **scikit-learn** using this command:
    pip install -U scikit-learn
    
 .. literalinclude:: examples/CLASS_PREC_REC/CLASS_PREC_REC.py
-
-
-
-MATLAB
-=========
-
-C++
-=========
-
-********************
-Literature
-********************

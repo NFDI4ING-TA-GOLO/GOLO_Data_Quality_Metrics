@@ -135,5 +135,5 @@ OpenCV contains a class for calculating the PSNR. A detailed description can be 
 ********************
 Literature
 ********************
-https://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/VELDHUIZEN/node18.html 
+A detailed description can be found at https://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/VELDHUIZEN/node18.html 
 

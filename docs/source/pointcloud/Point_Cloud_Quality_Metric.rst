@@ -33,4 +33,4 @@ A C++ implementation by the authors can be found in https://github.com/MEPP-team
 ********************
 Literature
 ********************
-https://hal.archives-ouvertes.fr/hal-02529668v1
+A detailed description can be found at the https://hal.archives-ouvertes.fr/hal-02529668v1

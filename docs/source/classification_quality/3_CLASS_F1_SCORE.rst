@@ -28,14 +28,3 @@ Install **scikit-learn** using this command:
    pip install -U scikit-learn
    
 .. literalinclude:: examples/CLASS_F1_SCORE/CLASS_F1_SCORE.py
-
-
-MATLAB
-=========
-
-C++
-=========
-
-********************
-Literature
-********************

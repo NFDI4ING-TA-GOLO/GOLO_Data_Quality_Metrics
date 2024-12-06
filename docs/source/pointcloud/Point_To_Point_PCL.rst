@@ -42,4 +42,4 @@ An example will be implemented in the future.
 ********************
 Literature
 ********************
-https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8296925
+A detailed description can be found at the https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8296925

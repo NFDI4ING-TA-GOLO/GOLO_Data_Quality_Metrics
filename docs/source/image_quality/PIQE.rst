@@ -74,4 +74,4 @@ A detailed description can be found at the `Mathworks Website <https://de.mathwo
 Literature
 ********************
 
-https://raiith.iith.ac.in/1527/1/1527_raiith_07084843.pdf
+A detailed description can be found at the https://raiith.iith.ac.in/1527/1/1527_raiith_07084843.pdf
