@@ -25,21 +25,9 @@ The quality of the results depends on
 - the surface quality of the plane
 - knowledge about the position and orientation of the plane
 
-******************
-Example
-******************
-
-Will be added in the future.
-
 ********************
 Tools and Libraries
 ********************
-
-Python
-=========
-
-MATLAB
-=========
 
 C++
 =========

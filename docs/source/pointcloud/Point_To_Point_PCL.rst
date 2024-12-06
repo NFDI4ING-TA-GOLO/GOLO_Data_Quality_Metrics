@@ -39,16 +39,6 @@ The implementation depends on the PCL format. Information to assign the points b
 
 An example will be implemented in the future.
 
-Python
-=========
-
-MATLAB
-=========
-
-C++
-=========
-
-
 ********************
 Literature
 ********************

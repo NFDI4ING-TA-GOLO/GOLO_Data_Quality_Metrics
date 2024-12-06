@@ -31,13 +31,3 @@ Install **numpy**, **scikit-learn**, and **matplotlib** via these commands:
    RMSE: 0.97
    MAE: 0.77
    R²: 0.40
-
-MATLAB
-=========
-
-C++
-=========
-
-********************
-Literature
-********************

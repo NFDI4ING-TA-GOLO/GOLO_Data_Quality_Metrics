@@ -52,11 +52,9 @@ If you would like to make a scientific contribution to this site, feel free to c
     image_quality/MeanSquared_Error
     image_quality/Root_Mean_Squared_Error
     image_quality/Peak_SignalToNoiseRatio
-    image_quality/Block_Sensitive_Peak_Signal_to_Noise_Ratio
     image_quality/Structural_Similarity
     image_quality/MultiScale_Structural_Similarity
     image_quality/Universal_Quality_Image_Index
-    image_quality/Spatial_Correlation_Coefficient
     image_quality/BRISQUE
     image_quality/NIQE
     image_quality/PIQE

@@ -35,14 +35,3 @@ Install **scikit-learn** via this command:
    
 .. literalinclude:: examples/REG_MSE/REG_MSE.py
 
-
-
-MATLAB
-=========
-
-C++
-=========
-
-********************
-Literature
-********************

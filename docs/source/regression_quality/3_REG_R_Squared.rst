@@ -34,14 +34,3 @@ Install **scikit-learn** via this command:
    
    
 .. literalinclude:: examples/REG_R_Squared/REG_R_Squared.py
-
-
-MATLAB
-=========
-
-C++
-=========
-
-********************
-Literature
-********************
