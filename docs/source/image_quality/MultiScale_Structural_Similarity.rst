@@ -82,7 +82,3 @@ Within the MATLAB Image Processing Toolbox a function to calculate the MS-SSIM e
   fprintf('\nThe MS-SSIM score for the sunny image %0.4f\n', score);
 
 A detailed description can be found at the `Mathworks Website <https://de.mathworks.com/help/images/ref/multissim.html>`_.
-
-********************
-Literature
-********************
