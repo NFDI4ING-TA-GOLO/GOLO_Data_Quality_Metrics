@@ -71,6 +71,6 @@ If you would like to make a scientific contribution to this site, feel free to c
     :caption: Pointcloud quality metrics
     :hidden:
 
-    pointcloud/Point_To_Point_PCL
-    pointcloud/Point_To_Plane_PCL
-    pointcloud/Point_Cloud_Quality_Metric
+..   pointcloud/Point_To_Point_PCL
+..   pointcloud/Point_To_Plane_PCL
+..   pointcloud/Point_Cloud_Quality_Metric
